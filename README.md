@@ -1,0 +1,1 @@
+- Implements a Short-Time Fourier Transform algorithm to turn input audio files into spectrograms.
